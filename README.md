@@ -13,7 +13,7 @@ Através de análises exploratórias, identificação de padrões e geração de
 
 <h2> 🗂️ Estrutura do Projeto </h2>
 
-- `TelecomX_BR.ipynb` – Notebook com todo o processo de análise, tratamento dos dados, EDA (Análise Exploratória) e visualizações.
+- `TelecomX_BR2.ipynb` – Notebook com todo o processo de análise, tratamento dos dados, EDA (Análise Exploratória) e visualizações.
 
 <h2> 🧽 Etapas Realizadas </h2>
 
